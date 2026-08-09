@@ -38,6 +38,7 @@ Entries assume no endorsement — check activity/last-commit before depending on
 - [PostGIS MCP Server](https://www.pulsemcp.com/servers/receptopalak-postgis)
 - [PostGIS Yukon MCP](https://mcp.aibase.com/server/1574493290131366134)
 - [Wherobots MCP Server](https://docs.wherobots.com/develop/mcp/mcp-server-overview)
+- [fastgeoapi MCP Server](https://github.com/geobeyond/fastgeoapi) - MCP server of protected pygeoapi instances
 
 ## Earth Observation & Satellite Imagery
 
